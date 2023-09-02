@@ -54,15 +54,12 @@
         <h2>Projects</h2>
         <p>Created Scientific Calculator - Java</p>
         <p>Cloned Shopping website by using HTML,CSS, & JAVA</p>
-
         <h2>Education</h2>
         <p>Bchelor's degree from JNTU-HYD</p>
         <P>High School Diploma from SR Junior College</P>
-
         <h2>Certifications</h2>
         <p>DSA by using JAVA</p>
         <P> DBMS </P>
-
         <h2>Hobbies</h2>
         <p>Watching Entertainments</p>
         <p> Playing Cricket</p>
